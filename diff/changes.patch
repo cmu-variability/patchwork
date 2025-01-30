@@ -1,0 +1,14 @@
+--- target.txt
++++ target.txt
++ public class HelloWorld {
++     public static void main(String[] args) {
++         System.out.println("Hello Enhanced World!");
++         
++         int x = 5;
++         int y = 10;
++         int z = 15;
++         System.out.println("Sum: " + (x + y + z));
++         
++         System.out.println("Patch has been applied!");
++     }
++ }
