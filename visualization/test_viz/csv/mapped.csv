@@ -1,0 +1,291 @@
+timestamp,id,path,x,y,line,col,type,token,remark
+1738080586351,,,,,,,,,
+1738080586675,,,,,,,,,
+1738080586926,mouseMoved,,,,,,,,
+1738080587176,,,,,,,,,
+1738080587425,,,,,,,,,
+1738080587675,,,,,,,,,
+1738080587926,,,,,,,,,
+1738080588175,,,,,,,,,
+1738080588426,,,,,,,,,
+1738080588675,mouseMoved,,,,,,,,
+1738080588925,mouseMoved,,,,,,,,
+1738080589176,,-,,,-,-,-,-,Invalid Gaze Point
+1738080589426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3010990917682647,0.22831474989652628,101,27,plain_text,The Projec,-
+1738080589676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2952275276184082,0.24400594830512995,102,26,plain_text,The Projec,-
+1738080589926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1651411056518554,0.21605901420116425,101,10,plain_text,The Projec,-
+1738080590175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1560820490121841,0.20103850215673447,101,9,plain_text,The Projec,-
+1738080590425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1165348514914512,0.1957336142659187,101,3,plain_text,The Projec,-
+1738080590676,,-,,,-,-,-,-,Invalid Gaze Point
+1738080590925,,-,0.1710167378187179,1.0440694093704224,-,-,-,-,Out of Text Editor
+1738080591175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.140495628118515,0.159265287220478,100,7,plain_text,The Projec,-
+1738080591425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.122945599257946,0.17875108122825623,100,4,plain_text,The Projec,-
+1738080591676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1294497549533844,0.18626537173986435,101,5,plain_text,The Projec,-
+1738080591925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1897336542606353,0.18885648995637888,101,13,plain_text,The Projec,-
+1738080592176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1965202242136001,0.1843110918998718,101,14,plain_text,The Projec,-
+1738080592425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1932362169027328,0.18750340491533274,101,13,plain_text,The Projec,-
+1738080592676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1972603052854538,0.18050964176654816,100,14,plain_text,The Projec,-
+1738080592926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2426820248365402,0.162257045507431,100,20,plain_text,The Projec,-
+1738080593176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2505688071250915,0.20274056494235987,101,21,plain_text,The Projec,-
+1738080593426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2935698926448822,0.17443193495273585,100,26,plain_text,The Projec,-
+1738080593675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4050559401512146,0.16038586944341654,100,40,plain_text,The Projec,-
+1738080593926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4747250974178314,0.15641355514526362,100,49,plain_text,The Projec,-
+1738080594176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5027127265930176,0.1651547253131866,100,53,plain_text,The Projec,-
+1738080594425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5807982087135315,0.14491844922304148,100,63,plain_text,The Projec,-
+1738080594676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5784181952476501,0.14400645345449445,100,63,plain_text,The Projec,-
+1738080594925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5431058406829834,0.1590144485235214,100,58,plain_text,The Projec,-
+1738080595176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1344988048076629,0.2456250637769699,102,6,plain_text,The Projec,-
+1738080595426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1547339558601379,0.2488760724663734,102,8,plain_text,The Projec,-
+1738080595676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2010560929775238,0.2316118404269218,101,14,plain_text,The Projec,-
+1738080595926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2439238578081131,0.23487817496061325,101,20,plain_text,The Projec,-
+1738080596176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3228099048137665,0.2127568200230598,101,30,plain_text,The Projec,-
+1738080596425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3195415735244751,0.2284804806113243,101,29,plain_text,The Projec,-
+1738080596676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3434052169322967,0.2133010253310203,101,33,plain_text,The Projec,-
+1738080596926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1433432847261428,0.3231474906206131,103,7,plain_text,The Projec,-
+1738080597175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1316456496715545,0.3476297855377197,103,5,plain_text,The Projec,-
+1738080597425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1680842489004135,0.32823711633682245,103,10,plain_text,The Projec,-
+1738080597676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2777572572231293,0.3694942593574524,104,24,plain_text,The Projec,-
+1738080597926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2947809994220733,0.35074521601200104,103,26,plain_text,The Projec,-
+1738080598175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2893895506858825,0.3502809405326843,103,26,plain_text,The Projec,-
+1738080598426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1361164003610611,0.4628752619028091,105,6,plain_text,The Projec,-
+1738080598676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.137931615114212,0.4522091448307037,105,6,plain_text,The Projec,-
+1738080598925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1927651464939117,0.4556784927845001,105,13,plain_text,The Projec,-
+1738080599176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.263738065958023,0.4581007361412048,105,22,plain_text,The Projec,-
+1738080599426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3230452537536621,0.45204463601112366,105,30,plain_text,The Projec,-
+1738080599676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5040420889854431,0.4306313842535019,105,53,plain_text,The Projec,-
+1738080599926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5831770896911621,0.4350428134202957,105,63,plain_text,The Projec,-
+1738080600176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1443180441856384,0.5135941207408905,106,7,plain_text,The Projec,-
+1738080600425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2046862691640854,0.50394606590271,106,15,plain_text,The Projec,-
+1738080600676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.448307067155838,0.5034959316253662,106,46,plain_text,The Projec,-
+1738080600925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4360436499118805,0.500423863530159,106,44,plain_text,The Projec,-
+1738080601176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5285588502883911,0.4911077916622162,106,56,plain_text,The Projec,-
+1738080601425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1514003127813339,0.545077383518219,107,8,plain_text,The Projec,-
+1738080601675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.162461370229721,0.5477283000946045,107,9,plain_text,The Projec,-
+1738080601925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1322552114725113,0.5673341751098633,107,5,plain_text,The Projec,-
+1738080602176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.144779697060585,0.5538858771324158,107,7,plain_text,The Projec,-
+1738080602426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2714199721813202,0.5491169393062592,107,23,plain_text,The Projec,-
+1738080602676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1319755911827087,0.6806707382202148,109,5,plain_text,The Projec,-
+1738080602925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1926852464675903,0.6461725234985352,109,13,plain_text,The Projec,-
+1738080603175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2297717630863189,0.6618152558803558,109,18,plain_text,The Projec,-
+1738080603426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3608563542366028,0.6572539806365967,109,35,plain_text,The Projec,-
+1738080603675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4377192258834839,0.6468953490257263,109,45,plain_text,The Projec,-
+1738080603926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5526185035705566,0.6546219289302826,109,59,plain_text,The Projec,-
+1738080604175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1495193541049957,0.7335632741451263,110,8,plain_text,The Projec,-
+1738080604426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2186411023139953,0.7322322726249695,110,17,plain_text,The Projec,-
+1738080604676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3665485978126526,0.6807063519954681,109,35,plain_text,The Projec,-
+1738080604925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4581351578235626,0.7054201364517212,110,47,plain_text,The Projec,-
+1738080605175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5595029592514038,0.7000101804733276,110,60,plain_text,The Projec,-
+1738080605425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1552870273590088,0.769856184720993,111,8,plain_text,The Projec,-
+1738080605676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1301568150520324,0.7876941561698914,111,5,plain_text,The Projec,-
+1738080605925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2133471667766571,0.774168461561203,111,16,plain_text,The Projec,-
+1738080606175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2444944232702255,0.7766829133033752,111,20,plain_text,The Projec,-
+1738080606426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1444162726402282,0.8817796111106873,113,7,plain_text,The Projec,-
+1738080606675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2486144453287124,0.884256511926651,113,20,plain_text,The Projec,-
+1738080606925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3038963377475738,0.8895221948623657,113,27,plain_text,The Projec,-
+1738080607176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.412095159292221,0.8878001868724823,113,41,plain_text,The Projec,-
+1738080607425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5142696499824524,0.8960385620594025,113,54,plain_text,The Projec,-
+1738080607676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5619935989379883,0.8961191475391388,113,61,plain_text,The Projec,-
+1738080607925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.6281405687332153,0.887785792350769,113,69,plain_text,The Projec,-
+1738080608175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.6203438639640808,0.8836557865142822,113,68,plain_text,The Projec,-
+1738080608425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.6237964630126953,0.8839324116706848,113,68,plain_text,The Projec,-
+1738080608676,,-,,,-,-,-,-,Invalid Gaze Point
+1738080608926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1392501443624496,0.18443854153156275,101,6,plain_text,The Projec,-
+1738080609175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1406189650297165,0.18232690542936325,101,7,plain_text,The Projec,-
+1738080609426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1779985576868057,0.1554857864975929,100,11,plain_text,The Projec,-
+1738080609676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1782578229904174,0.17217633128166196,100,11,plain_text,The Projec,-
+1738080609925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1964763849973678,0.141646921634674,100,14,plain_text,The Projec,-
+1738080610176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2434568256139755,0.17282777279615397,100,20,plain_text,The Projec,-
+1738080610425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2960355579853058,0.15164645761251444,100,26,plain_text,The Projec,-
+1738080610676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3391204178333282,0.1594913974404335,100,32,plain_text,The Projec,-
+1738080610925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3358859419822693,0.15099060535430905,100,32,plain_text,The Projec,-
+1738080611175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4602630138397217,0.12835081666707984,100,47,plain_text,The Projec,-
+1738080611426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4623716175556183,0.1326837912201881,100,48,plain_text,The Projec,-
+1738080611675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5034931898117065,0.13829600811004633,100,53,plain_text,The Projec,-
+1738080611925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5089676380157471,0.14401027560234064,100,54,plain_text,The Projec,-
+1738080612175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5561580061912537,0.13916403427720064,100,60,plain_text,The Projec,-
+1738080612425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5970773696899414,0.1424423232674598,100,65,plain_text,The Projec,-
+1738080612675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4241992831230163,0.1710649654269218,100,43,plain_text,The Projec,-
+1738080612925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1203009784221649,0.2478294819593429,102,4,plain_text,The Projec,-
+1738080613175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.15727399289608,0.21498138457536697,101,9,plain_text,The Projec,-
+1738080613426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1869330257177353,0.2257131040096283,101,12,plain_text,The Projec,-
+1738080613675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2437248080968856,0.24761959910392756,102,20,plain_text,The Projec,-
+1738080613925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.239168107509613,0.2311895191669464,101,19,plain_text,The Projec,-
+1738080614176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3177438676357269,0.221224270761013,101,29,plain_text,The Projec,-
+1738080614426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3468154370784759,0.2252847626805305,101,33,plain_text,The Projec,-
+1738080614675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1588339805603027,0.3406487107276916,103,9,plain_text,The Projec,-
+1738080614926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1560848653316497,0.33972950279712677,103,9,plain_text,The Projec,-
+1738080615175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1345911473035812,0.3414915204048157,103,6,plain_text,The Projec,-
+1738080615425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1689774990081787,0.35572923719882965,104,10,plain_text,The Projec,-
+1738080615676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1958537846803665,0.3468282669782638,103,14,plain_text,The Projec,-
+1738080615926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.294180154800415,0.3581585437059402,104,26,plain_text,The Projec,-
+1738080616175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2943832874298095,0.3539416640996933,104,26,plain_text,The Projec,-
+1738080616425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1397280842065811,0.4763473570346832,106,6,plain_text,The Projec,-
+1738080616676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1504672914743423,0.47853259742259974,106,8,plain_text,The Projec,-
+1738080616926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1904995292425155,0.4517428129911423,105,13,plain_text,The Projec,-
+1738080617176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.265037328004837,0.44954244792461395,105,22,plain_text,The Projec,-
+1738080617425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2512005865573883,0.44333443045616144,105,21,plain_text,The Projec,-
+1738080617675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3140657842159271,0.43964695930480957,105,29,plain_text,The Projec,-
+1738080617926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.376518040895462,0.43704868853092194,105,37,plain_text,The Projec,-
+1738080618176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4550881087779999,0.44062043726444244,105,47,plain_text,The Projec,-
+1738080618425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5725744962692261,0.4135935455560684,105,62,plain_text,The Projec,-
+1738080618676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5803850293159485,0.4174317866563797,105,63,plain_text,The Projec,-
+1738080618926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1375811398029327,0.5007749199867249,106,6,plain_text,The Projec,-
+1738080619175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1203188970685005,0.4922083467245102,106,4,plain_text,The Projec,-
+1738080619426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2018477320671081,0.49733564257621765,106,14,plain_text,The Projec,-
+1738080619676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2984170615673065,0.5075185596942902,106,27,plain_text,The Projec,-
+1738080619926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.416991651058197,0.5100015103816986,106,42,plain_text,The Projec,-
+1738080620175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4084235429763794,0.5013032704591751,106,41,plain_text,The Projec,-
+1738080620426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4446795582771301,0.5071961134672165,106,45,plain_text,The Projec,-
+1738080620676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5215948224067688,0.5049265325069427,106,55,plain_text,The Projec,-
+1738080620926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.6025688648223877,0.48808538913726807,106,66,plain_text,The Projec,-
+1738080621175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.321151465177536,0.5215983092784882,106,30,plain_text,The Projec,-
+1738080621426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.130261555314064,0.5555025041103363,107,5,plain_text,The Projec,-
+1738080621675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2561308145523071,0.552348405122757,107,21,plain_text,The Projec,-
+1738080621925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2559744119644165,0.5511597990989685,107,21,plain_text,The Projec,-
+1738080622176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2978412210941314,0.5563772618770599,107,27,plain_text,The Projec,-
+1738080622426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1565392315387725,0.6381804943084717,109,9,plain_text,The Projec,-
+1738080622675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1573559790849685,0.6458777785301208,109,9,plain_text,The Projec,-
+1738080622926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2193704843521118,0.6446842849254608,109,17,plain_text,The Projec,-
+1738080623175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3615270555019378,0.6470989882946014,109,35,plain_text,The Projec,-
+1738080623426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5413209199905396,0.6552959084510803,109,58,plain_text,The Projec,-
+1738080623675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4436742961406708,0.6537481248378754,109,45,plain_text,The Projec,-
+1738080623926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4455165863037109,0.6504118740558624,109,46,plain_text,The Projec,-
+1738080624176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5593875050544739,0.6374353170394897,109,60,plain_text,The Projec,-
+1738080624426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1353614628314972,0.73619344830513,110,6,plain_text,The Projec,-
+1738080624675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1254598796367645,0.7220270037651062,110,5,plain_text,The Projec,-
+1738080624925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2035491913557052,0.7179640829563141,110,15,plain_text,The Projec,-
+1738080625176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.356465607881546,0.6980758905410767,110,34,plain_text,The Projec,-
+1738080625425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3433385193347931,0.7034456431865692,110,33,plain_text,The Projec,-
+1738080625676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4462426304817199,0.7030478715896606,110,46,plain_text,The Projec,-
+1738080625925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5157146453857422,0.7179096937179565,110,55,plain_text,The Projec,-
+1738080626176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5874059200286865,0.704965740442276,110,64,plain_text,The Projec,-
+1738080626426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1338620632886886,0.7722338438034058,111,6,plain_text,The Projec,-
+1738080626676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2184915393590927,0.7925118505954742,111,17,plain_text,The Projec,-
+1738080626926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.211670383810997,0.7897211611270905,111,16,plain_text,The Projec,-
+1738080627176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1391820758581161,0.884492963552475,113,6,plain_text,The Projec,-
+1738080627425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1821051239967346,0.8865752816200256,113,12,plain_text,The Projec,-
+1738080627675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3144035041332245,0.9033427536487579,113,29,plain_text,The Projec,-
+1738080627925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4221105575561523,0.894199550151825,113,43,plain_text,The Projec,-
+1738080628176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5245582461357117,0.8825901746749878,113,56,plain_text,The Projec,-
+1738080628425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5389530062675476,0.8911490142345428,113,58,plain_text,The Projec,-
+1738080628675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.6091083884239197,0.8896454870700836,113,67,plain_text,The Projec,-
+1738080628926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1986604779958725,0.20222103595733634,101,14,plain_text,The Projec,-
+1738080629175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1470177620649337,0.18301896750926971,101,7,plain_text,The Projec,-
+1738080629426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1453218460083007,0.1685310825705528,100,7,plain_text,The Projec,-
+1738080629676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1916955262422561,0.15415207296609873,100,13,plain_text,The Projec,-
+1738080629926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3017791211605072,0.13951168954372406,100,27,plain_text,The Projec,-
+1738080630175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4336897730827331,0.1478882655501365,100,44,plain_text,The Projec,-
+1738080630426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5573498010635376,0.15054239332675928,100,60,plain_text,The Projec,-
+1738080630675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4721275269985199,0.1579396724700927,100,49,plain_text,The Projec,-
+1738080630925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1166752725839614,0.23848349601030344,102,4,plain_text,The Projec,-
+1738080631176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2033886015415191,0.2325877994298935,101,15,plain_text,The Projec,-
+1738080631425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3088537156581878,0.2220184653997421,101,28,plain_text,The Projec,-
+1738080631676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3107242882251739,0.22291200608015055,101,28,plain_text,The Projec,-
+1738080631926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1657265573740005,0.3415794372558594,103,10,plain_text,The Projec,-
+1738080632176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1356600224971771,0.3506912440061569,103,6,plain_text,The Projec,-
+1738080632426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2148636281490326,0.34184569120407104,103,16,plain_text,The Projec,-
+1738080632676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2857459485530853,0.35361711680889124,104,25,plain_text,The Projec,-
+1738080632925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1384206116199493,0.4572366774082184,105,6,plain_text,The Projec,-
+1738080633175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1287980377674102,0.44877228140830994,105,5,plain_text,The Projec,-
+1738080633426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1266000270843505,0.45278728008270264,105,5,plain_text,The Projec,-
+1738080633675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1581474989652633,0.4310160875320434,105,9,plain_text,The Projec,-
+1738080633926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3626523017883301,0.43725053966045374,105,35,plain_text,The Projec,-
+1738080634176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3693564534187317,0.44305251538753504,105,36,plain_text,The Projec,-
+1738080634425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4611135721206665,0.42777393758296967,105,48,plain_text,The Projec,-
+1738080634676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5349791049957275,0.42674483358860016,105,57,plain_text,The Projec,-
+1738080634925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2600157260894775,0.4961715191602707,106,22,plain_text,The Projec,-
+1738080635176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2157422751188278,0.4959069937467575,106,16,plain_text,The Projec,-
+1738080635426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2987831830978393,0.4996403306722641,106,27,plain_text,The Projec,-
+1738080635676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4374974071979522,0.5018855035305023,106,45,plain_text,The Projec,-
+1738080635926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5237318277359009,0.48065249621868134,106,56,plain_text,The Projec,-
+1738080636175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4518732726573944,0.48216950893402094,106,46,plain_text,The Projec,-
+1738080636426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1507745683193206,0.5444142520427704,107,8,plain_text,The Projec,-
+1738080636676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1995166093111038,0.5453971028327942,107,14,plain_text,The Projec,-
+1738080636926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2557461857795715,0.5390770435333252,107,21,plain_text,The Projec,-
+1738080637175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1405361592769622,0.6294511258602142,108,7,plain_text,The Projec,-
+1738080637425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1481879204511642,0.6358436644077301,109,8,plain_text,The Projec,-
+1738080637675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2478396892547607,0.6293783783912659,108,20,plain_text,The Projec,-
+1738080637926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3726968169212341,0.6352250874042511,109,36,plain_text,The Projec,-
+1738080638175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.52139812707901,0.6439899504184723,109,55,plain_text,The Projec,-
+1738080638426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5452437996864319,0.6430513560771942,109,58,plain_text,The Projec,-
+1738080638676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1232362315058708,0.7037481069564819,110,4,plain_text,The Projec,-
+1738080638925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2212888300418853,0.7143456041812897,110,17,plain_text,The Projec,-
+1738080639175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3635942637920379,0.7106531858444214,110,35,plain_text,The Projec,-
+1738080639425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4590188562870025,0.6951457560062408,110,47,plain_text,The Projec,-
+1738080639675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5302456617355347,0.694582611322403,110,56,plain_text,The Projec,-
+1738080639926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.104688361287117,0.786636084318161,111,2,plain_text,The Projec,-
+1738080640175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2048317492008209,0.7777299582958221,111,15,plain_text,The Projec,-
+1738080640425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1952059417963028,0.7696950435638428,111,14,plain_text,The Projec,-
+1738080640675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1215494498610496,0.9091200232505798,113,4,plain_text,The Projec,-
+1738080640925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2264898419380188,0.8822877109050751,113,18,plain_text,The Projec,-
+1738080641176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3456527888774872,0.8902249932289124,113,33,plain_text,The Projec,-
+1738080641426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4453216195106506,0.8864302933216095,113,46,plain_text,The Projec,-
+1738080641676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5508761405944824,0.8828284442424774,113,59,plain_text,The Projec,-
+1738080641925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.6064388751983643,0.8842760026454926,113,66,plain_text,The Projec,-
+1738080642176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2180904746055603,0.20087883621454233,101,16,plain_text,The Projec,-
+1738080642426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.142615795135498,0.18874037265777582,101,7,plain_text,The Projec,-
+1738080642676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2099867314100265,0.14908546209335324,100,15,plain_text,The Projec,-
+1738080642925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1986449062824249,0.16308874636888498,100,14,plain_text,The Projec,-
+1738080643175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2458128333091735,0.1622034534811973,100,20,plain_text,The Projec,-
+1738080643425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2923785746097564,0.14182732999324796,100,26,plain_text,The Projec,-
+1738080643676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3552043437957763,0.13725658506155008,100,34,plain_text,The Projec,-
+1738080643925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3653304278850555,0.150610513985157,100,35,plain_text,The Projec,-
+1738080644175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4383090138435364,0.14251225441694254,100,45,plain_text,The Projec,-
+1738080644425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4785535037517547,0.150400660932064,100,50,plain_text,The Projec,-
+1738080644676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4774746894836426,0.1455714926123619,100,50,plain_text,The Projec,-
+1738080644926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5139617323875427,0.16790690273046488,100,54,plain_text,The Projec,-
+1738080645176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5889946818351746,0.13593811914324755,100,64,plain_text,The Projec,-
+1738080645426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5853723883628845,0.15298005938529965,100,63,plain_text,The Projec,-
+1738080645675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1576472073793411,0.2160756811499595,101,9,plain_text,The Projec,-
+1738080645925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1358711719512939,0.22586695849895477,101,6,plain_text,The Projec,-
+1738080646176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2038415223360061,0.22550268471240992,101,15,plain_text,The Projec,-
+1738080646425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.27835413813591,0.2181587591767311,101,24,plain_text,The Projec,-
+1738080646675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3148252665996551,0.2368322238326072,101,29,plain_text,The Projec,-
+1738080646926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1422772258520126,0.34473833441734314,103,7,plain_text,The Projec,-
+1738080647175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1680692136287689,0.336603045463562,103,10,plain_text,The Projec,-
+1738080647425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2630334794521332,0.34087821841239924,103,22,plain_text,The Projec,-
+1738080647675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2247057408094406,0.3484036028385162,103,17,plain_text,The Projec,-
+1738080647925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3048736155033111,0.34384697675704956,103,28,plain_text,The Projec,-
+1738080648176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1582452803850174,0.45123955607414246,105,9,plain_text,The Projec,-
+1738080648426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1529545933008194,0.45983822643756866,105,8,plain_text,The Projec,-
+1738080648676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2924489974975586,0.42880998551845545,105,26,plain_text,The Projec,-
+1738080648925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2607653141021728,0.4479873329401016,105,22,plain_text,The Projec,-
+1738080649176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3375199735164642,0.443727508187294,105,32,plain_text,The Projec,-
+1738080649426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5231742858886719,0.41314131021499634,105,56,plain_text,The Projec,-
+1738080649676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4740659296512604,0.4266269207000732,105,49,plain_text,The Projec,-
+1738080649926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4176008105278015,0.4400839209556579,105,42,plain_text,The Projec,-
+1738080650175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1462728679180145,0.5065293610095978,106,7,plain_text,The Projec,-
+1738080650426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2691521942615509,0.5096870958805084,106,23,plain_text,The Projec,-
+1738080650676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4344590604305267,0.49582739174366,106,44,plain_text,The Projec,-
+1738080650925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1802356541156768,0.520596981048584,106,12,plain_text,The Projec,-
+1738080651176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1415649056434631,0.5688224732875824,107,7,plain_text,The Projec,-
+1738080651425,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2120027095079422,0.5541631281375885,107,16,plain_text,The Projec,-
+1738080651676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2089063674211502,0.5501661896705627,107,15,plain_text,The Projec,-
+1738080651926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2778695821762085,0.548369437456131,107,24,plain_text,The Projec,-
+1738080652175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1446242183446884,0.6629748046398163,109,7,plain_text,The Projec,-
+1738080652426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2183777689933776,0.6648756861686707,109,17,plain_text,The Projec,-
+1738080652675,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.367923378944397,0.6662425696849823,109,36,plain_text,The Projec,-
+1738080652925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.4605464935302734,0.6608240008354187,109,48,plain_text,The Projec,-
+1738080653175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5455549359321594,0.6564696431159973,109,58,plain_text,The Projec,-
+1738080653426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5483485460281372,0.6466481685638428,109,59,plain_text,The Projec,-
+1738080653676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1297075748443603,0.7143895924091339,110,5,plain_text,The Projec,-
+1738080653926,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3708545863628387,0.6961272060871124,110,36,plain_text,The Projec,-
+1738080654175,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.3678258657455444,0.7089655697345734,110,36,plain_text,The Projec,-
+1738080654426,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5015071630477905,0.6912590563297272,109,53,plain_text,The Projec,-
+1738080654676,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.5251404047012329,0.6904842257499695,109,56,plain_text,The Projec,-
+1738080654925,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.1586949676275253,0.7685886919498444,111,9,plain_text,The Projec,-
+1738080655176,,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.2239233404397964,0.772640198469162,111,17,plain_text,The Projec,-
+1738080655425,mouseMoved,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.133206233382225,0.854476809501648,112,6,plain_text,The Projec,-
+1738080655675,,-,0.0257830414921045,0.040247117169201346,-,-,-,-,Out of Text Editor
+1738080655926,,-,0.1008767262101173,0.034272296354174545,-,-,-,-,Out of Text Editor
+1738080656175,nan,-,0.0479608252644538,0.070073265582323,-,-,-,-,Out of Text Editor
+1738080656425,nan,-,0.0355870872735977,0.043796388432383496,-,-,-,-,Out of Text Editor
+1738080656675,nan,-,0.2085905075073242,0.054428735747933346,-,-,-,-,Out of Text Editor
+1738080656926,nan,-,0.2252763360738754,0.022781024686992148,-,-,-,-,Out of Text Editor
+1738080657175,nan,-,0.2219094485044479,0.029233600245788652,-,-,-,-,Out of Text Editor
+1738080657426,nan,-,0.2454906404018402,0.048529396764934,-,-,-,-,Out of Text Editor
+1738080657676,nan,-,0.2477325797080993,0.04749463312327855,-,-,-,-,Out of Text Editor
+1738080657925,CodeGRITS.StartStopTracking,C:/Users/klnewman/Desktop/cask_of_amontillado.txt,0.24650339782238,0.128320213407278,100,20,plain_text,The Projec,-
+1738080658176,CodeGRITS.StartStopTracking,,,,,,,,
+1738080658425,CodeGRITS.StartStopTracking,,,,,,,,
+1738080658585,CodeGRITS.StartStopTracking,,,,,,,,
